@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/palmby/agileproj/_apis/build/status%2FPalmby.az400practice?branchName=main)](https://dev.azure.com/palmby/agileproj/_build/latest?definitionId=4&branchName=main)
